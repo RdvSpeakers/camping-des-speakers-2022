@@ -23,5 +23,5 @@ jobs:
           publish_branch: gh-pages
           publish_dir: _site
           destination_dir: ""
-          external_repository: RdvSpeakers/camping-des-speakers      
+          external_repository: RdvSpeakers/camping-des-speakers-2022      
 
