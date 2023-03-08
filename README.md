@@ -1,6 +1,6 @@
 # Website for *Le Camping des Speakers*
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-website.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-2022.git)
 
 
 ## An [Eleventy](https://11ty.dev/) site
@@ -12,9 +12,9 @@ It's based on [eleventy-dot-js-blog](https://gitlab.com/reubenlillie/eleventy-do
 
 ## Getting started
 
-Simply open the [project on GitPod]((https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-website.git)!
+Simply open the [project on GitPod]((https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-2022.git)!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-website.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RdvSpeakers/camping-des-speakers-2022.git)
 
 Or if you want/need to run a local copy of this site on your computer:
 
